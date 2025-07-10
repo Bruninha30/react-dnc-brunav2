@@ -1,7 +1,7 @@
 import Banner from '../components/Banner/Banner';
 import ContactForm from '../components/ContactForm/ContactForm';
 import Header from '../components/Header/Header';
-import Footer from '../components/footer/footer'; 
+import Footer from '../components/Footer/Footer'; 
 import { useContext } from 'react';
 
 
