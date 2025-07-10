@@ -1,7 +1,7 @@
 import AboutText from '../components/AboutText/AboutText';
 import Banner from '../components/Banner/Banner';
 import Header from '../components/Header/Header';
-import Footer from '../components/footer/footer'; 
+import Footer from '../components/Footer/Footer'; 
 import { useContext } from 'react';
 
 // context
